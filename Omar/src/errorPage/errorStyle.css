@@ -1,0 +1,32 @@
+.not-found .data {
+    margin-top: 22%;
+}
+
+.not-found .data h1 {
+    font-size: 160px;
+    font-weight: 700;
+}
+
+.not-found .data h4 {
+    font-weight: 600;
+}
+
+.not-found .data p {
+    max-width: 50%;
+    margin: 0 auto;
+    color: #968888;
+    padding-bottom: 120px;
+}
+
+.not-found .sign {
+    max-width: 130px;
+    margin-top: 30%;
+}
+
+.not-found .vector {
+    position: absolute;
+    top: 30px;
+    left: 51px;
+    max-width: 55px;
+    margin-top: 30%;
+}
