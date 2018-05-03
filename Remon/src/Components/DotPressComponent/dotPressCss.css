@@ -1,0 +1,549 @@
+
+
+.Main_page_DotPress {
+    position:relative;
+    width:1933;
+    height:4048px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.Rectangle_BackGround_Grey1 {
+    background-color: rgb(243, 243, 243);
+    position: absolute;
+    
+    left: -1px;
+    top: -19px;
+    width: 1947px;
+    height: 1103px;
+    
+  }
+  .Rectangle_BackGround_White1 {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top:1103px;
+    width: 1947px;
+    height: 1103px;
+    
+  }
+.parent_section1 {
+    position: absolute;
+    top:20px;
+}
+.parent_section2 {
+    position: relative;
+    top:20px;
+    
+}
+.parent_section3 {
+    position: relative;
+    top:20px;
+}
+
+.parent_section4 {
+    position: relative;
+    top:20px;
+}
+.parent_section5 {
+    position: relative;
+    top:20px;
+}
+.parent_section6 {
+    position: relative;
+    top:20px;
+}
+.parent_section7 {
+    position: relative;
+    top:20px;
+}
+.parent_section8 {
+    position: relative;
+    top:20px;
+}
+
+.Eclipse_parent {
+    position: absolute;
+    left: 20px;
+}
+  .Ellipse_black1 {
+    border-radius: 50%;
+    background-color: rgb(102, 102, 102);
+    position: absolute;
+    left: 50px;
+    top: 230px;
+    width: 11px;
+    height: 10px;
+    z-index: 152;
+}
+.Ellipse_black2 {
+    border-radius: 50%;
+    background-color: rgb(102, 102, 102);
+    position: absolute;
+    left: 100px;
+    top: 230px;
+    width: 11px;
+    height: 10px;
+    z-index: 152;
+}
+.Ellipse_red {
+    border-radius: 50%;
+    background-color: rgb(196, 10, 10);
+    position: absolute;
+    left: 150px;
+    top: 230px;
+    width: 11px;
+    height: 10px;
+    z-index: 152;
+}
+
+.Ellipse_dim_black {
+    border-radius: 50%;
+    background-color: rgb(35, 31, 32);
+    position: absolute;
+    left: 150px;
+    top: 230px;
+    width: 11px;
+    height: 10px;
+    z-index: 152;
+}
+
+    .dotpress_title {
+    font-size: 48px;
+    font-family: "Lato";
+    color: rgb(35, 31, 32);
+    font-weight: bold;
+    line-height: 1.2;
+    height: 100px;
+    width: 550px;
+    position: absolute;
+    left: 236.938px;
+    top: 220.962px;
+    z-index: 146;
+}
+
+.DOTPRESS_Content_Manage {
+    font-size: 20.315px;
+    font-family: "Lato";
+    color: rgb(35, 31, 32);
+    line-height: 1.329;
+    text-align: left;
+    position: absolute;
+    left: 241.715px;
+    top: 710.953px;
+    width: 520.365px;
+    height: 164.963px;
+    z-index: 153;
+}
+
+.DotPress_Image {
+    position: absolute;
+    top: 300.953px;
+    left: 800px;
+}
+
+.DotPress_sec3_Iphone {
+    position: absolute;
+    top: 81px;
+    right:360px;
+}
+.Rectangle_Line_black {
+    background-color: rgb(35, 31, 32);
+    opacity: 0.6;
+    position: absolute;
+    left: 246px;
+    top: 863px;
+    width: 154px;
+    height: 2px;
+    z-index: 147;
+}
+   .Rectangle_Line_red{
+    background-color: rgb(197, 36, 41);
+    position: absolute;
+    left: 246px;
+    top: 862px;
+    width: 79px;
+    height: 4px;
+    z-index: 148;
+}
+
+
+  .Rectangle_BackGround_Grey2 {
+    background-color: rgb(243, 243, 243);
+    position: absolute;
+    
+    left: -1px;
+    top: 2206px;
+    width: 1947px;
+    height: 1103px;
+    
+}
+  .Rectangle_BackGround_White2 {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top:3309px;
+    width: 1947px;
+    height: 1103px;
+    
+}
+
+
+  .dotPress_content_up  {
+    font-size: 20.315px;
+    font-family: "Lato";
+    color: rgb(47, 43, 44);
+    line-height: 1.2;
+    position: absolute;
+    left: 246.222px;
+    top: 405.863px;
+    width: 535.486px;
+    height: 165.143px;
+    z-index: 99;
+}   
+
+  .dotPress_content_left {
+    font-size: 20.315px;
+    font-family: "Lato";
+    color: rgb(35, 31, 32);
+    line-height: 1.2;
+    position: absolute;
+    left: 250px;
+    top: 580.263px;
+    width: 230.64px;
+    height: 214.342px;
+    z-index: 100;
+   }
+
+   .dotPress_content_right {
+    font-size: 20.315px;
+    font-family: "Lato";
+    color: rgb(35, 31, 32);
+    line-height: 1.2;
+    position: absolute;
+    left: 555.984px;
+    top: 580.485px;
+    width: 245.472px;
+    height: 213.899px;
+    z-index: 101;
+}
+
+    .Search_Engine_Layer {
+    position: absolute;
+    left: 1067px;
+    top: 190px;
+    width: 515px;
+    height: 794px;
+    z-index: 102;
+}
+
+   .Search_button {
+    background-color: rgb(197, 36, 41);
+    position: absolute;
+    right: 412px;
+    top: 483px;
+    width: 100px;
+    height: 50px;
+    z-index: 103;
+}
+
+   .Ellipse_Image {
+    border-radius: 50%;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    right: 585px;
+    top: 345px;
+    width: 335px;
+    height: 335px;
+    z-index: 109;
+}
+.Ellipse_Image_frame {
+    border-radius: 50%;
+    position: absolute;
+    right: 587.5px;
+    top: 342.5px;
+    width: 335px;
+    height: 335px;
+    z-index: 109;
+}
+
+.Ellipse_Image_shadow {
+    border-radius: 50%;
+    position: absolute;
+    right: 587.5px;
+    top: 342.5px;
+    width: 335px;
+    height: 335px;
+    z-index: 109;
+}
+
+  .Rectangle_BackGround_Grey3 {
+    background-color: rgb(243, 243, 243);
+    position: absolute;
+    
+    left: -1px;
+    top: 4412px;
+    width: 1947px;
+    height: 1103px;
+    
+}
+
+  .Part1_image {
+    position: absolute;
+    top:315px;
+    right:175px;
+    width:825px;
+    height:227px;
+}
+  .Part2_image {
+    position: absolute;
+    top:590px;
+    right:175px;
+    width:825px;
+    height:227px;
+}
+
+  .Rectangle_BackGround_White3 {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top:5515px;
+    width: 1947px;
+    height: 1103px;
+    
+}
+
+
+._Chat_Feature_Text {
+    font-size: 24px;
+    font-family: "Lato";
+    color: rgb(35, 31, 32);
+    font-weight: bold;
+    line-height: 1.2;
+    position: absolute;
+    left: 1093.85px;
+    top: 465.6px;
+    z-index: 69;
+}
+.Task_List_Text {
+    font-size: 24px;
+    font-family: "Lato";
+    color: rgb(35, 31, 32);
+    font-weight: bold;
+    line-height: 1.2;
+    position: absolute;
+    left: 1450.834px;
+    top: 465.6px;
+    z-index: 70;
+}
+.To_do_List_Text {
+    font-size: 24px;
+    font-family: "Lato";
+    color: rgb(35, 31, 32);
+    font-weight: bold;
+    line-height: 1.2;
+    position: absolute;
+    left: 1117.834px;
+    top: 825.6px;
+    z-index: 75;
+}
+.Project_Management_Text {
+    font-size: 24px;
+    font-family: "Lato";
+    color: rgb(35, 31, 32);
+    font-weight: bold;
+    line-height: 1.2;
+    position: absolute;
+    left: 1376.937px;
+    top: 825.6px;
+    z-index: 76;
+}
+
+.Ellipse_1 {
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(245, 245, 245);
+    border-radius: 50%;
+    background-color: rgba(21, 73, 159, 0);
+    position: absolute;
+    left: 1073px;
+    top: 230px;
+    width: 194px;
+    height: 193px;
+    z-index: 65;
+}
+
+.Ellipse_2 {
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(245, 245, 245);
+    border-radius: 50%;
+    background-color: rgba(21, 73, 159, 0);
+    position: absolute;
+    left: 1398px;
+    top: 230px;
+    width: 195px;
+    height: 193px;
+    z-index: 66;
+}
+
+.Ellipse_3 {
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(245, 245, 245);
+    border-radius: 50%;
+    background-color: rgba(21, 73, 159, 0);
+    position: absolute;
+    left: 1073px;
+    top: 590px;
+    width: 194px;
+    height: 193px;
+    z-index: 71;
+}
+
+.Ellipse_4 {
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(245, 245, 245);
+    border-radius: 50%;
+    background-color: rgba(21, 73, 159, 0);
+    position: absolute;
+    left: 1398px;
+    top: 590px;
+    width: 194px;
+    height: 193px;
+    z-index: 72;
+}
+.Ellipse_1_Image {
+    position: absolute;
+    left: 1122px;
+    top: 290px;
+    width: 194px;
+    height: 193px;
+    z-index: 65;
+}
+
+.Ellipse_2_Image {
+    position: absolute;
+    left: 1450px;
+    top: 300px;
+    width: 194px;
+    height: 193px;
+    z-index: 65;
+}
+.Ellipse_3_Image {
+    position: absolute;
+    left: 1135px;
+    top: 650px;
+    width: 194px;
+    height: 193px;
+    z-index: 65;
+}
+.Ellipse_4_Image {
+    position: absolute;
+    left: 1450px;
+    top: 650px;
+    width: 194px;
+    height: 193px;
+    z-index: 65;
+}
+
+  .Rectangle_BackGround_Grey4 {
+    background-color: rgb(243, 243, 243);
+    position: absolute;
+    
+    left: -1px;
+    top: 6618px;
+    width: 1947px;
+    height: 1103px;
+    
+}
+
+.Rectangle_Integrated {
+    background-color: rgb(197, 36, 41);
+    position: absolute;
+    left: 250px;
+    top: 385px;
+    width: 697px;
+    height: 460px;
+    z-index: 49;
+}
+.Google_Integrated_Text {
+    font-size: 36px;
+    font-family: "AvenirNext";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    position: absolute;
+    left: 460.937px;
+    top: 710.206px;
+    z-index: 51;
+}
+
+.Rectangle_Developed {
+    background-color: rgb(35, 31, 32);
+    position: absolute;
+    left: 969px;
+    top: 385px;
+    width: 697px;
+    height: 460px;
+    z-index: 50;
+}
+
+.Custom_Developed_Text {
+    font-size: 36px;
+    font-family: "AvenirNext";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    position: absolute;
+    left: 1160.937px;
+    top: 710.206px;
+    z-index: 52;
+}
+
+
+  .Rectangle_BackGround_White4 {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top:7721px;
+    width: 1947px;
+    height: 1103px;
+}
+
+.Layer_1 {
+    position: absolute;
+    left: 1227px;
+    top: 316px;
+    width: 515px;
+    height: 445px;
+    z-index: 26;
+}
+
+
+.Layer_2 {
+    position: absolute;
+    left: 960px;
+    top: 316px;
+    width: 515px;
+    height: 445px;
+    z-index: 28;
+}
+
+.Layer_3 {
+    position: absolute;
+    left: 1022px;
+    top: 270px;
+    width: 633px;
+    height: 577px;
+    z-index: 31;
+}
+
+.Content_title_HR {
+    font-size: 30px;
+    font-family: "Lato";
+    color: rgb(35, 31, 32);
+    line-height: 1.2;
+    position: absolute;
+    left: 241.017px;
+    top: 580.253px;
+    width: 462.653px;
+    height: 64.149px;
+    z-index: 24;
+}

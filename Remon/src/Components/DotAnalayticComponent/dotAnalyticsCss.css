@@ -1,0 +1,144 @@
+.Main_page_dotAnalaytics {
+    position:relative;
+    width:1933;
+    height:4048px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+   .Rectangle_BackGround_Grey1 {
+        background-color: rgb(243, 243, 243);
+        position: absolute;
+        left: -1px;
+        top: -19px;
+        width: 1947px;
+        height: 1103px;
+        
+    }
+    .Rectangle_BackGround_White1 {
+        background-color: rgb(255, 255, 255);
+        position: absolute;
+        left: -1px;
+        top:1103px;
+        width: 1947px;
+        height: 1103px;
+        
+    }
+    .dotvid_title_Grey1 {
+        font-size: 48px;
+        font-family: "Lato";
+        color: rgb(35, 31, 32);
+        font-weight: bold;
+        line-height: 1.2;
+        text-align: left;
+        position: absolute;
+        width: 500px;
+        left: 237.938px;
+        top: 180.7px;
+        z-index: 67;
+    }
+
+    .Main_Content_Grey1 {
+        font-size: 20.315px;
+        font-family: "Lato";
+        color: rgb(35, 31, 32);
+        line-height: 1.329;
+        text-align: left;
+        position: absolute;
+        left: 245.495px;
+        top: 791.586px;
+        width: 567.777px;
+        height: 43.696px;
+        z-index: 75;
+    }
+
+    .Ellipse_grey1_Grey1 {
+        border-radius: 50%;
+        background-color: rgb(102, 102, 102);
+        position: absolute;
+        left: 53px;
+        top: 236px;
+        width: 11px;
+        height: 10px;
+        z-index: 74;
+    }
+
+    .Ellipse_grey2_Grey1 {
+        border-radius: 50%;
+        background-color: rgb(102, 102, 102);
+        position: absolute;
+        left: 120px;
+        top: 236px;
+        width: 11px;
+        height: 10px;
+        z-index: 73;
+    }
+
+
+    .Ellipse_red_Grey1 {
+        border-radius: 50%;
+        background-color: rgb(181, 21, 21);
+        position: absolute;
+        left: 195px;
+        top: 236px;
+        width: 10px;
+        height: 10px;
+        z-index: 72;
+    }
+
+    .Ellipse_black_Grey1 {
+        border-radius: 50%;
+        background-color: rgb(0, 0, 0);
+        position: absolute;
+        left: 197px;
+        top: 236px;
+        width: 10px;
+        height: 10px;
+        z-index: 72;
+    }
+
+
+    .Rectangle_lower_red_Grey1 {
+        background-color: rgb(197, 36, 41);
+        position: absolute;
+        left: 246px;
+        top: 862px;
+        width: 79px;
+        height: 4px;
+        z-index: 70;
+    }
+    .Rectangle_lower_black_Grey1 {
+        background-color: rgb(35, 31, 32);
+        opacity: 0.6;
+        position: absolute;
+        left: 246px;
+        top: 863px;
+        width: 154px;
+        height: 2px;
+        z-index: 69;
+    }
+
+    .Phone1_White1 {
+        position: absolute;
+        left:888px;
+        top:206px;
+    }
+
+.Rectangle_BackGround_Grey2 {
+    background-color: rgb(243, 243, 243);
+    position: absolute;
+    left: -1px;
+    top: 2168px;
+    width: 1962px;
+    height: 1084px;
+    z-index: 42;
+}
+.Rectangle_BackGround_White2 {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: -1px;
+    top:3254px;
+    width: 1947px;
+    height: 1103px;
+        
+    }
