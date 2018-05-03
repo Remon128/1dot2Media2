@@ -1,0 +1,41 @@
+.title{
+   text-align:center;
+margin: 0;
+padding: 0;
+ }
+
+ span.desc{
+   /*width: 549px;
+ height: 87px;*/
+ font-size: 20px;
+ line-height: 30px;
+ color: rgb(35,31,32);
+ font-family: "Lato";
+ display: block;
+ text-align: left;
+ margin-top: 60%;
+  }
+h1{
+  font-size: 30px;
+  color: rgb(35,31,32);
+  font-family: "Lato";
+  font-weight: bold;
+  text-align: left;
+
+}
+
+  hr {
+    height: 10px;
+    border: 0;
+     padding: 0;
+    width: 10%;
+}
+
+.redHrDiv{
+  border-top: 3px solid red;
+
+ }
+.grayHrDiv{
+  border-top: 1px solid gray;
+
+}

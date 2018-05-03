@@ -1,0 +1,149 @@
+
+.face-img img
+{
+    max-width: 50%;
+    max-height: 50%;
+}
+.tv-camera
+{
+    background:#f3f3f3;
+    padding-top: 40px;
+    padding-bottom: 80px;
+  
+   
+    
+}
+ .left p
+{
+    display: inline;
+    list-style-type: decimal;
+    width: 60px;
+    height: 60px;
+    background:#000;
+  
+    
+    
+}
+
+.tv-camera img
+{
+   overflow: hidden; 
+    max-width: 100%;
+    max-height:  700px;
+}
+
+.right
+{
+
+/*    height:  400px;*/
+    
+    
+}
+.right p
+{
+    display:block;
+    direction:rtl;
+    margin-top: 20px;
+    font-size:13px;
+   
+    
+}
+.right span
+{
+    display: block;
+    color: #999;
+    font-size: 15px;
+    padding-right: 7px;
+   
+
+}
+ .activ span
+{
+    color: #333;
+    font-weight: bold;
+}
+.activ
+{
+    border-right: 1px solid #000;
+    
+}
+
+.cam
+{
+    position: relative;
+    height: 508px;
+}
+.cam span
+{
+   
+    position: absolute;
+    bottom:0;
+    right:0;
+    font-size: 15px;
+    width: 100%;
+    
+    
+    
+  
+    
+}
+
+.cam p
+{
+   
+    position: absolute;
+    bottom:0;
+    right:0;
+    font-size: 15px;
+    width: 100%;
+    
+    
+    
+  
+    
+}
+.tv-camera .glyphicon 
+{
+    color: red;
+   float: right;
+    margin-right: 20px;
+    margin-top: 50px;
+    font-weight: 100;
+    
+  
+    
+ 
+}
+
+     h2 {
+  font-weight: 900
+}
+     hr {
+    display: inline-block;
+    height: 1px;
+    border: 0;
+    border-top: 2px solid red;
+    margin-left: 0px;
+    padding-bottom: 50px;
+    width:15%
+ 
+}
+ 
+    hr.graycolor{
+ 
+        border-top: 1px solid gray;
+             margin-left: -5px;
+ 
+     }
+ 
+.Container-fluid{
+	 
+	height:100%;
+	margin-top:90px;
+ }
+.face-img img
+{
+    max-width: 50%;
+    max-height: 50%;
+}
+
