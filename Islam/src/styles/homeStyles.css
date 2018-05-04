@@ -1,0 +1,86 @@
+/* Islam Emam */
+
+input[type=text] {
+  width: 130px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+  width: 100%;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  float: right;
+  margin: 32px;
+}
+
+.toolbarHomeStyle {
+  background: white;
+}
+
+.aboutBtn {
+  padding: 20px;
+  float: right;
+}
+
+.serviceBtn {
+  padding: 20px;
+  float: left;
+}
+
+.bodyContent {
+  margin: 20px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+body {
+  background: #ffffff url("../assets/company.jpg") no-repeat;
+  background-size: 100%;
+  color: #221e1f;
+}
+
+fullLogo {
+  margin-block-end: 466px;
+  margin-top: 312px;
+}
+
+div.logo {
+  position: 466px 312px;
+  background: #c52429;
+}
+
+.textColor {
+  color: #ffffff;
+  margin: 8px;
+}
+
+.white-block {
+  margin: 24px;
+  padding: 24px;
+  background-color: #ffffff;
+  color: #221e1f;
+}
