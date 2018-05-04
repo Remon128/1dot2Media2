@@ -1,0 +1,190 @@
+@font-face {
+    font-family: 'Bahij TheSansArabic Plain';
+    src: url('Bahij_TheSansArabic-Plain.ttf');
+    font-family: 'Bahij TheSansArabic Bold';
+    src: url('Bahij_TheSansArabic-Bold.ttf');
+}
+
+body, h1, h2, h4, h5, h6 {
+    font-family: 'Bahij TheSansArabic Plain';
+}
+
+h1 {
+    color: #f7f7f7;
+    font-size: 684%;
+}
+
+h2 {
+    font-size: 250%
+}
+
+h3 {
+    font-family: 'Bahij TheSansArabic Bold';
+    font-size: 200%;
+}
+
+h4 {
+    font-size: 200%;
+}
+
+p {
+    font-size: 100%;
+}
+
+header {
+    width: 100%;
+    height: 54.5vw;
+    position: relative;
+}
+
+#circle {
+    position: absolute;
+    top: 5vw;
+    left: 1vw;
+    height: 44vw;
+    width: 44vw;
+    background-color: #e81377;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+#group-1 {
+    position: absolute;
+    left: 10vw;
+    top: 17vw;
+    width: 30.2vw;
+    height: 3.3%
+}
+
+#group-1 p {
+    font-family: 'Bahij TheSansArabic Bold'
+}
+
+.line {
+    width: 5.8vw;
+    height: 0.1vw;
+}
+
+.white-text {
+    color: white;
+}
+
+#group-2 {
+    width: 53.9vw;
+    height: 32.5vw;
+    background-size: contain;
+    position: absolute;
+    right: 8vw;
+    top: 12.5vw;
+}
+
+#overview {
+    width: 100%;
+    height: 40vw;
+    background-color: #6b478f;
+    position: relative;
+}
+
+#overview-text {
+    position: absolute;
+    width: 22.4%;
+    height: 10vw;
+    left: 11%;
+    top: 15.5vw;
+}
+
+#overview-mac {
+    position: absolute;
+    top: 8.5vw;
+    right: 7%;
+    height: 33vw;
+}
+
+#overview-phone {
+    position: absolute;
+    left: 38%;
+    top: 22vw;
+    height: 21vw;
+}
+
+.heading {
+    margin-left: 7.5%;
+    position: relative;
+}
+
+.section {
+    margin-top: 10vw;
+    margin-bottom: 10vw;
+    position: relative;
+}
+
+#font-colors .heading {
+    width: 75%;
+    height: 17vw;
+}
+
+.title {
+    position: absolute;
+    top: 3.7vw;
+    left: 6%;
+}
+
+#fonts {
+    margin-left: 6%;
+}
+
+.colors {
+    position: absolute;
+    top: 8vw;
+    right: 0;
+}
+
+.color-set {
+    float: right;
+    width: 7.5vw;
+    height: 7.5vw;
+    margin-left: 9vw;
+}
+
+.color {
+    height: 80%;
+    width: 80%;
+    padding-left: 9%;
+    padding-top: 9%;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+#ellipse {
+    position: absolute;
+    top: 216vw;
+    right: 4%;
+    height: 15vw;
+    width: 100%;
+    background: radial-gradient(closest-side, #aaaaaa, rgba(0, 0, 0, 0));
+}
+
+#rectangle {
+    position: absolute;
+    top: 219.5vw;
+    height: 15vw;
+    width: 100%;
+    background: white;
+}
+
+#row {
+    margin-top: 10vw;
+    margin-bottom: 10vw;
+    margin-left: 10%;
+}
+
+.col {
+    float: left;
+    width: 38vw;
+    margin-bottom: 10vw;
+}
+
+.page {
+    width: 40vw;
+    height: 54vw;
+}
