@@ -1,0 +1,1219 @@
+.Vector_Smart_Object {
+background-image: url("Components\\dotemirates contents\\Vector Smart Object.png");
+position: absolute;
+left: 1851px;
+top: 60px;
+width: 26px;
+height: 18px;
+z-index: 245;
+}
+.Rectangle_3_copy_3 {
+background-color: rgb(35, 31, 32);
+position: absolute;
+left: 1828px;
+top: 36px;
+width: 74px;
+height: 74px;
+z-index: 244;
+}
+.Vector_Smart_Object2 {
+position: absolute;
+left: 1781px;
+top: 61px;
+width: 24px;
+height: 23px;
+z-index: 243;
+}
+.Rectangle_3_copy {
+border-style: solid;
+border-width: 1px;
+border-color: rgb(213, 213, 213);
+background-color: rgb(255, 255, 255);
+position: absolute;
+left: 1752px;
+top: 36px;
+width: 74px;
+height: 74px;
+z-index: 242;
+}
+.Vector_Smart_Object_copy_7 {
+  position: absolute;
+  left: 24px;
+  top: 27px;
+  width: 88px;
+  height: 93px;
+  z-index: 241;
+}
+.Rectangle_9 {
+  background-color: rgb(182, 192, 52);
+  position: absolute;
+  left: 1157px;
+  top: 6254px;
+  width: 299px;
+  height: 191px;
+  z-index: 175;
+}
+.appscreen1{
+    position: absolute;
+    top: 8550.874px;
+    left: 540px;
+}
+.appscreen2{
+    position: absolute;
+    top: 8173.874px;
+    left: 120px;
+    z-index: 300;
+}
+.appscreen3{
+    position: absolute;
+    top: 8150.874px;
+    left: 955px;
+}
+.appscreen5{
+    position: absolute;
+    top: 9160px;
+    left: 1180px;
+}
+.appscreen6{
+    position: absolute;
+    top: 8800.874px;
+    left: 0px;
+}
+.appscreen4{
+    position: absolute;
+    top: 9150px;
+    left: 500px;
+}
+.Rectangle_3 {
+  background-color: rgb(250, 250, 250);
+  position: absolute;
+  left: 0px;
+  top: 156px;
+  width: 1950px;
+  height: 1024px;
+  z-index: 9;
+}
+.Delivers_the_best_of_UAE {
+  font-size: 58px;
+  font-family: "Avenir";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 0.82890324887379,0,0,0.82890324887379,0,0);
+  -webkit-transform: matrix( 0.82890324887379,0,0,0.82890324887379,0,0);
+  -ms-transform: matrix( 0.82890324887379,0,0,0.82890324887379,0,0);
+  position: absolute;
+  left: 1246.173px;
+  top: 420.287px;
+  width: 410.529px;
+  height: 109.485px;
+  z-index: 14;
+}
+.Rounded_Rectangle_1_copy_12 {
+  background-color: rgb(182, 192, 52);
+  position: absolute;
+  left: 534px;
+  top: 5314px;
+  width: 185px;
+  height: 6px;
+  z-index: 45;
+}
+.Trending {
+  font-size: 18px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 0.99997248490797,0,0,0.99025515137991,0,0);
+  -webkit-transform: matrix( 0.99997248490797,0,0,0.99025515137991,0,0);
+  -ms-transform: matrix( 0.99997248490797,0,0,0.99025515137991,0,0);
+  position: absolute;
+  left: 407.51px;
+  top: 5289.094px;
+  z-index: 44;
+}
+.Rounded_Rectangle_1_copy_11 {
+  background-color: rgb(182, 192, 52);
+  position: absolute;
+  left: 594px;
+  top: 5278px;
+  width: 125px;
+  height: 6px;
+  z-index: 43;
+}
+.NEWS_FEED {
+  font-size: 18px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 0.99997248490797,0,0,0.99025515137991,0,0);
+  -webkit-transform: matrix( 0.99997248490797,0,0,0.99025515137991,0,0);
+  -ms-transform: matrix( 0.99997248490797,0,0,0.99025515137991,0,0);
+  position: absolute;
+  left: 460.73px;
+  top: 5253.094px;
+  z-index: 42;
+}
+.Rounded_Rectangle_1_copy_14 {
+  background-color: rgb(182, 192, 52);
+  position: absolute;
+  left: 1169px;
+  top: 5255px;
+  width: 175px;
+  height: 5px;
+  z-index: 41;
+}
+.Multimedia {
+  font-size: 18px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1362.938px;
+  top: 5228.2px;
+  z-index: 40;
+}
+.Rounded_Rectangle_1_copy_13 {
+  background-color: rgb(182, 192, 52);
+  position: absolute;
+  left: 1169px;
+  top: 5287px;
+  width: 175px;
+  height: 5px;
+  z-index: 39;
+}
+.Categories {
+  font-size: 18px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1360.844px;
+  top: 5261.2px;
+  z-index: 38;
+}
+.Rounded_Rectangle_1_copy_7 {
+  background-color: rgb(182, 192, 52);
+  position: absolute;
+  left: 1169px;
+  top: 5321px;
+  width: 125px;
+  height: 5px;
+  z-index: 37;
+}
+.ADD_TO_FAVOURITES {
+  font-size: 18px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1333.937px;
+  top: 5295.2px;
+  z-index: 36;
+}
+.Rounded_Rectangle_1_copy_10 {
+  background-color: rgb(182, 192, 52);
+  position: absolute;
+  left: 1179px;
+  top: 4993px;
+  width: 115px;
+  height: 5px;
+  z-index: 35;
+}
+.FOLLOW_THIS_SOURCE {
+  font-size: 18px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1313.844px;
+  top: 4967.2px;
+  z-index: 34;
+}
+.Rounded_Rectangle_1_copy_5 {
+  background-color: rgb(182, 192, 52);
+  position: absolute;
+  left: 1179px;
+  top: 5037px;
+  width: 65px;
+  height: 5px;
+  z-index: 33;
+}
+.ADD_TO_FAVOURITES2 {
+  font-size: 18px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1279.937px;
+  top: 5011.2px;
+  z-index: 32;
+}
+.Rounded_Rectangle_1_copy_6 {
+  background-color: rgb(182, 192, 52);
+  position: absolute;
+  left: 1175px;
+  top: 4745px;
+  width: 155px;
+  height: 5px;
+  z-index: 31;
+}
+.Rounded_Rectangle_1_copy_4 {
+  background-color: rgb(182, 192, 52);
+  position: absolute;
+  left: 1175px;
+  top: 4713px;
+  width: 85px;
+  height: 5px;
+  z-index: 30;
+}
+.Rounded_Rectangle_1_copy_9 {
+  background-color: rgb(182, 192, 52);
+  position: absolute;
+  left: 595px;
+  top: 5008px;
+  width: 135px;
+  height: 5px;
+  z-index: 29;
+}
+.Rounded_Rectangle_1_copy_8 {
+  background-color: rgb(182, 192, 52);
+  position: absolute;
+  left: 515px;
+  top: 4978px;
+  width: 215px;
+  height: 5px;
+  z-index: 28;
+}
+.LIKE {
+  font-size: 18px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 529.844px;
+  top: 4982.2px;
+  z-index: 27;
+}
+.SHARE_ {
+  font-size: 18px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 419.096px;
+  top: 4954.2px;
+  z-index: 26;
+}
+.Rounded_Rectangle_1_copy_2 {
+  background-color: rgb(182, 192, 52);
+  position: absolute;
+  left: 615px;
+  top: 4726px;
+  width: 125px;
+  height: 5px;
+  z-index: 25;
+}
+.SETTINGS {
+  font-size: 18px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1356.095px;
+  top: 4716.2px;
+  z-index: 23;
+}
+.SEARCH {
+  font-size: 18px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1285.096px;
+  top: 4686.2px;
+  z-index: 22;
+}
+.Follow_Sources {
+  font-size: 18px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 489.095px;
+  top: 4686.072px;
+  width: 120px;
+  z-index: 21;
+}
+.MOBILE_LAYOUT {
+  font-size: 45.21px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 749.937px;
+  top: 7913.874px;
+  z-index: 20;
+}
+.DESKTOP_LAYOUT {
+  font-size: 45.21px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 749.938px;
+  top: 5833.874px;
+  z-index: 19;
+}
+.CONCEpT {
+  font-size: 45.21px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 849.938px;
+  top: 4450.874px;
+  z-index: 18;
+}
+.iphone {
+    position: absolute;
+    top:4620.874px;
+    left: 705.938px;
+}
+._7d7d7d {
+  font-size: 45.21px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.2;
+  -moz-transform: matrix( 0.68686167467639,0,0,0.68686167467639,0,0);
+  -webkit-transform: matrix( 0.68686167467639,0,0,0.68686167467639,0,0);
+  -ms-transform: matrix( 0.68686167467639,0,0,0.68686167467639,0,0);
+  position: absolute;
+  left: 600.238px;
+  top: 2457.874px;
+  z-index: 56;
+}
+.Rectangle_3_copy_6 {
+  background-color: rgb(125, 125, 125);
+  opacity: 0.6;
+  position: absolute;
+  left: 914px;
+  top: 2471px;
+  width: 437px;
+  height: 113px;
+  z-index: 55;
+}
+.Rectangle_3_copy_62 {
+  background-color: rgb(125, 125, 125);
+  opacity: 0.8;
+  position: absolute;
+  left: 803px;
+  top: 2471px;
+  width: 112px;
+  height: 113px;
+  z-index: 54;
+}
+.Rectangle_3_copy_63 {
+  background-color: rgb(125, 125, 125);
+  position: absolute;
+  left: 586px;
+  top: 2471px;
+  width: 218px;
+  height: 113px;
+  z-index: 53;
+}
+.Rectangle_3_copy_2 {
+  background-color: rgb(182, 192, 52);
+  opacity: 0.6;
+  position: absolute;
+  left: 915px;
+  top: 2320px;
+  width: 436px;
+  height: 113px;
+  z-index: 52;
+}
+.Rectangle_3_copy2 {
+  background-color: rgb(182, 192, 52);
+  opacity: 0.8;
+  position: absolute;
+  left: 804px;
+  top: 2320px;
+  width: 112px;
+  height: 113px;
+  z-index: 51;
+}
+.b6c034 {
+  font-size: 45.21px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.2;
+  -moz-transform: matrix( 0.68686167467639,0,0,0.68686167467639,0,0);
+  -webkit-transform: matrix( 0.68686167467639,0,0,0.68686167467639,0,0);
+  -ms-transform: matrix( 0.68686167467639,0,0,0.68686167467639,0,0);
+  position: absolute;
+  left: 602.684px;
+  top: 2302.874px;
+  z-index: 50;
+}
+.Rectangle_32 {
+  background-color: rgb(182, 192, 52);
+  position: absolute;
+  left: 586px;
+  top: 2320px;
+  width: 219px;
+  height: 113px;
+  z-index: 49;
+}
+.PALETTE {
+  font-size: 45.21px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 856.938px;
+  top: 2166.374px;
+  z-index: 48;
+}
+.Layer_2 {
+  background-image: url("Components\\dotemirates contents\\Layer 2.png");
+  opacity: 0.631;
+  position: absolute;
+  left: 1189px;
+  top: 1856px;
+  width: 138px;
+  height: 135px;
+  z-index: 77;
+}
+.Reflection {
+  position: absolute;
+  left: 1089px;
+  top: 1696px;
+  z-index: 78;
+}
+.Mac {
+  position: absolute;
+  left: 189px;
+  top: 1186px;
+  z-index: 74;
+}
+.iPhone_6___4_7_inch___Silver {
+  background-image: url("Components\\dotemirates contents\\iPhone 6 _ 4.7 inch _ Silver.png");
+  opacity: 0.349;
+  position: absolute;
+  left: 1515px;
+  top: 1505px;
+  width: 282px;
+  height: 515px;
+  z-index: 77;
+}
+.iPhone_6___4_7_inch___Silver2 {
+  position: absolute;
+  left: 1525px;
+  top: 1505px;
+  z-index: 78;
+}
+
+.iPad_Air_2__Silver {
+  background-image: url("Components\\dotemirates contents\\iPad Air 2  Silver.png");
+  opacity: 0.271;
+  position: absolute;
+  left: 1180px;
+  top: 1250px;
+  width: 516px;
+  height: 732px;
+  z-index: 75;
+}
+.iPad_Air_2__Silver2 {
+  position: absolute;
+  left: 1190px;
+  top: 1285px;
+  z-index: 76;
+}
+
+.PROTOTYPE {
+  font-size: 45.21px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 827.938px;
+  top: 2881.874px;
+  z-index: 68;
+}
+.New_Src1 {
+    position: absolute;
+    top: 3170.874px;
+    left: 1525px ;    
+}
+.New_Src2 {
+    position: absolute;
+    top: 3170.874px;
+    left: 450px;    
+}
+.New_Src3 {
+    position: absolute;
+    top: 3800px;
+    left: 100px;    
+}
+.search1 {
+    position: absolute;
+    top: 3170px;
+    left: 100px;    
+}
+.search2 {
+    position: absolute;
+    top: 3800px;
+    left: 450px;    
+}
+.home{
+    position: absolute;
+    top: 3170px;
+    left: 1180px;    
+}
+.profile{
+    position: absolute;
+    top: 3800px;
+    left: 1180px;
+}
+.setting1 {
+    position: absolute;
+    top: 3800px;
+    left: 800px;
+}
+.setting2 {
+    position: absolute;
+    top: 3800px;
+    left: 1525px;    
+}
+.Rectangle_18_copy_2 {
+    position: absolute;
+  left: 200px;
+  top: 15520px;
+  width: 550px;
+  height: 550px;
+  z-index: 162;
+}
+.ball {
+  position: absolute;
+  left: 832px;
+  top: 15608px;
+  width: 197px;
+  height: 191px;
+  z-index: 161;
+}
+.Rectangle_18_copy {
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 696px;
+  top: 15520px;
+  width: 473px;
+  height: 472px;
+  z-index: 160;
+}
+.Rectangle_18 {
+  position: absolute;
+  left: 1181px;
+  top: 15520px;
+  width: 473px;
+  height: 472px;
+  z-index: 158;
+}
+.Rounded_Rectangle_6_copy_4 {
+  border-radius: 4px;
+  background-color: rgb(217, 217, 217);
+  position: absolute;
+  left: 808px;
+  top: 15432px;
+  width: 133px;
+  height: 8px;
+  z-index: 157;
+}
+.More_Work {
+  font-size: 48px;
+  font-family: "Lato";
+  color: rgb(11, 73, 122);
+  font-weight: bold;
+  line-height: 0.902;
+  -moz-transform: matrix( 1.00194027590062,0,0,1.00245470485099,0,0);
+  -webkit-transform: matrix( 1.00194027590062,0,0,1.00245470485099,0,0);
+  -ms-transform: matrix( 1.00194027590062,0,0,1.00245470485099,0,0);
+  position: absolute;
+  left: 820.741px;
+  top: 15324.852px;
+  z-index: 156;
+}
+.About_Us {
+  font-size: 36px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  position: absolute;
+  left: 740.938px;
+  top: 16651.9px;
+  z-index: 153;
+}
+.Vector_Smart_Object_copy_3_2 {
+  position: absolute;
+  left: 940.844px;
+  top: 16518.305px;
+  z-index: 140;
+}
+.Vector_Smart_Object_copy_3_3 {
+  position: absolute;
+  left: 960.844px;
+  top: 16518.305px;
+  z-index: 142;
+}
+.We_focus_on_providing_the_most_creative__innova {
+  font-size: 20.315px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  -moz-transform: matrix( 0.98216497546393,0,0,0.98449259110379,0,0);
+  -webkit-transform: matrix( 0.98216497546393,0,0,0.98449259110379,0,0);
+  -ms-transform: matrix( 0.98216497546393,0,0,0.98449259110379,0,0);
+  position: absolute;
+  left: 722.771px;
+  top: 16723.397px;
+  width: 641.173px;
+  height: 68.074px;
+  z-index: 152;
+}
+.Design___Development_by_dotdev_©_2016_1_2Media {
+  font-size: 14px;
+  font-family: "Lato";
+  color: rgb(119, 119, 119);
+  line-height: 1.2;
+  position: absolute;
+  left: 375.937px;
+  top: 16751.85px;
+  width: 205px;
+  z-index: 151;
+}
+.Abu_Dhabi__UAE__2454_____Abu_Dhabi__UAE__2454__ {
+  font-size: 16px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 1192.937px;
+  top: 16371.546px;
+  width: 350px;
+  height: 42px;
+  z-index: 150;
+}
+.Abu_Dhabi__UAE__2454__971_569888100_info_1dot2_ {
+  font-size: 3px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  line-height: 1.4;
+  text-align: left;
+  -moz-transform: matrix( 5.30128894960248,0,0,5.31533041400255,0,0);
+  -webkit-transform: matrix( 5.30128894960248,0,0,5.31533041400255,0,0);
+  -ms-transform: matrix( 5.30128894960248,0,0,5.31533041400255,0,0);
+  position: absolute;
+  left: 1003.825px;
+  top: 16433.328px;
+  width: 25px;
+  z-index: 149;
+}
+.Address {
+  font-size: 18px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.855;
+  position: absolute;
+  left: 1190.937px;
+  top: 16317.305px;
+  z-index: 148;
+}
+.Contact_Us {
+  font-size: 18px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.855;
+  position: absolute;
+  left: 940.844px;
+  top: 16318.305px;
+  z-index: 147;
+}
+.Vector_Smart_Object3 {
+  background-image: url("Components\\dotemirates contents\\Vector Smart Object3.png");
+  position: absolute;
+  left: 417px;
+  top: 16400px;
+  width: 124px;
+  height: 130px;
+  z-index: 146;
+}
+.Back_to_Home {
+  font-size: 18px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  line-height: 1.855;
+  position: absolute;
+  left: 701.844px;
+  top: 16500.805px;
+  z-index: 145;
+}
+.Vector_Smart_Object_copy_4 {
+  background-image: url("Components\\dotemirates contents\\Vector Smart Object copy 4.png");
+  position: absolute;
+  left: 1822px;
+  top: 16211px;
+  width: 20px;
+  height: 10px;
+  z-index: 144;
+}
+.Vector_Smart_Object4 {
+  background-image: url("Components\\dotemirates contents\\Vector Smart Object4.png");
+  position: absolute;
+  left: 830px;
+  top: 16508px;
+  width: 10px;
+  height: 20px;
+  z-index: 143;
+}
+.Rectangle_2_copy_2 {
+  background-color: rgb(197, 36, 41);
+  position: absolute;
+  left: 664px;
+  top: 16603px;
+  width: 904px;
+  height: 273px;
+  z-index: 141;
+}
+.Rectangle_2_copy_3 {
+  background-color: rgb(197, 36, 41);
+  position: absolute;
+  left: 1795px;
+  top: 16178px;
+  width: 74px;
+  height: 75px;
+  z-index: 140;
+}
+.Rectangle_2_copy {
+  background-color: rgb(197, 36, 41);
+  position: absolute;
+  left: 664px;
+  top: 16432px;
+  width: 205px;
+  height: 171px;
+  z-index: 139;
+}
+.Rectangle_2 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 294px;
+  top: 16327px;
+  width: 370px;
+  height: 276px;
+  z-index: 138;
+}
+.Rectangle_17 {
+  background-color: rgb(35, 31, 32);
+  position: absolute;
+  left: -56px;
+  top: 16215px;
+  width: 1975px;
+  height: 915px;
+  z-index: 137;
+}
+.Ellipse_1_copy {
+  border-style: solid;
+  border-width: 4px;
+  border-color: rgb(232, 232, 232);
+  border-radius: 50%;
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 957px;
+  top: 6126px;
+  width: 604px;
+  height: 604px;
+  z-index: 135;
+}
+
+.Layer_4 {
+  background-image: url("Components\\dotemirates contents\\Layer 4.png");
+  position: absolute;
+  left: 341px;
+  top: 5999px;
+  z-index: 133;
+}
+.matches {
+  position: absolute;
+  left: 1424.937px;
+  top: 12094.874px;
+}
+.join_us_copy_3 {
+   position: absolute;
+  left: 165px;
+  top: 12147px;
+}
+.Layer_3 {
+   position: absolute;
+  left: 1424.937px;
+  top: 11651px;
+}
+.currency {
+  position: absolute;
+  left: 1101px;
+  top: 12331px;
+}
+.weather {
+  position: absolute;
+  left: 1424.937px;
+  top: 12498px;
+}
+.currency_copy_2 {
+  position: absolute;
+  left: 799px;
+  top: 12362px;
+}
+.cinemas {
+  position: absolute;
+  left: 475px;
+  top: 12150px;
+}
+.celebrities {
+position: absolute;
+  left: 1121px;
+  top: 11648px;  
+}
+.VSOC3 {
+  position: absolute;
+  left: 807px;
+  top: 11654px;  
+}
+.weather_copy_3{
+  position: absolute;
+  left: 157px;
+  top: 11646px;  
+}
+.join_us_copy_9 {
+  position: absolute;
+  left: 441px;
+  top: 11642px;
+}
+.weather_copy_4 {
+  position: absolute;
+  left: 0px;
+  top: 10914px;
+}
+.weather2 {
+  position: absolute;
+  left: 982px;
+  top: 10732px;
+}
+.weather3{
+  position: absolute;
+  left: 628px;
+  top: 10726px;
+}
+.Line1 {
+  position: absolute;
+  left: 1328px;
+  top: 10948px;
+}
+.EXPANDED {
+  font-size: 18px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 0.99628512474068,0,0,1.00574918807344,0,0);
+  -webkit-transform: matrix( 0.99628512474068,0,0,1.00574918807344,0,0);
+  -ms-transform: matrix( 0.99628512474068,0,0,1.00574918807344,0,0);
+  position: absolute;
+  left: 1166.929px;
+  top: 11465.094px;
+  z-index: 117;
+}
+.ICON_SET {
+  font-size: 18px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 0.99628512474068,0,0,1.00574918807344,0,0);
+  -webkit-transform: matrix( 0.99628512474068,0,0,1.00574918807344,0,0);
+  -ms-transform: matrix( 0.99628512474068,0,0,1.00574918807344,0,0);
+  position: absolute;
+  left: 1710.019px;
+  top: 10931.094px;
+  z-index: 115;
+}
+.Full {
+  font-size: 18px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 0.99628512474068,0,0,1.00574918807344,0,0);
+  -webkit-transform: matrix( 0.99628512474068,0,0,1.00574918807344,0,0);
+  -ms-transform: matrix( 0.99628512474068,0,0,1.00574918807344,0,0);
+  position: absolute;
+  left: 1523.742px;
+  top: 10715.094px;
+  z-index: 113;
+}
+.MINI {
+  font-size: 18px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 0.99997248490797,0,0,0.99025515137991,0,0);
+  -webkit-transform: matrix( 0.99997248490797,0,0,0.99025515137991,0,0);
+  -ms-transform: matrix( 0.99997248490797,0,0,0.99025515137991,0,0);
+  position: absolute;
+  left: 460.495px;
+  top: 10712.094px;
+  z-index: 110;
+}
+.EASY {
+  font-size: 36px;
+  font-family: "Avenir";
+  color: rgb(182, 192, 52);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 347.937px;
+  top: 13343.4px;
+  z-index: 102;
+}
+.Just_scroll {
+  font-size: 30px;
+  font-family: "Avenir";
+  color: rgb(183, 183, 183);
+  line-height: 1.2;
+  position: absolute;
+  left: 347.144px;
+  top: 13396.828px;
+  width: 133px;
+  height: 23px;
+  z-index: 101;
+}
+.Don’t_Miss_a_Thing {
+  font-size: 36px;
+  font-family: "Avenir";
+  color: rgb(182, 192, 52);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 341.937px;
+  top: 14481.4px;
+  z-index: 100;
+}
+.Customisable {
+  font-size: 36px;
+  font-family: "Avenir";
+  color: rgb(182, 192, 52);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 1210.937px;
+  top: 13771.4px;
+  z-index: 88;
+}
+.MOBILE_APPLICATION {
+  font-size: 45.21px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 718.937px;
+  top: 13028.874px;
+  z-index: 81;
+}
+.WIDGETS {
+  font-size: 45.21px;
+  font-family: "AvenirNextLTPro";
+  color: rgb(125, 125, 125);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 845.937px;
+  top: 10489.874px;
+  z-index: 80;
+}
+.appscreen11{
+  position: absolute;
+  left: 840px;
+  top: 14249px;
+  z-index: 20;
+}
+.appscreen4_2 {
+  position: absolute;
+  left: 748px;
+  top: 14546px;
+  z-index: 10;
+
+}
+.appscreen2_2 {
+  position: absolute;
+  left: 1198px;
+  top: 14161px;
+  z-index: 20;
+
+}
+.circle1 {
+  position: absolute;
+  left: 1241px;
+  top: 13369px;
+}
+.circle2 {
+  position: absolute;
+  left: 1366px;
+  top: 13369px;
+}
+.circle3 {
+  position: absolute;
+  left: 1489px;
+  top: 13369px;
+}
+.circle4 {
+  position: absolute;
+  left: 1241px;
+  top: 13485px;
+}
+.circle5 {
+  position: absolute;
+  left: 1366px;
+  top: 13485px;
+}
+.circle6 {
+  position: absolute;
+  left: 1489px;
+  top: 13485px;
+}
+.circle7 {
+  position: absolute;
+  left: 1241px;
+  top: 13597px;
+}
+.circle8 {
+  position: absolute;
+  left: 1366px;
+  top: 13597px;
+}
+.circle9 {
+  position: absolute;
+  left: 1489px;
+  top: 13597px;
+}
+.Layer_8 {
+  background-image: url("Components\\dotemirates contents\\Layer 8.png");
+  position: absolute;
+  left: 810px;
+  top: 13317px;
+  width: 349px;
+  height: 623px;
+  z-index: 84;
+}
+.Layer_9 {
+  background-image: url("Components\\dotemirates contents\\Layer 9.png");
+  position: absolute;
+  left: 810px;
+  top: 13317px;
+  width: 349px;
+  height: 679px;
+  z-index: 85;
+}
+.iPhone_6_4_7_inch_Silver1_copy_2 {
+  position: absolute;
+  left: 458px;
+  top: 13235px;
+  z-index: 87;
+}
+.Rounded_Rectangle_1_copy_17 {
+  border-radius: 2px;
+  background-color: rgb(182, 192, 52);
+  position: absolute;
+  left: 980px;
+  top: 11487px;
+  width: 165px;
+  height: 6px;
+  z-index: 118;
+}
+.Rounded_Rectangle_1_copy_18 {
+  border-radius: 2px;
+  background-color: rgb(182, 192, 52);
+  position: absolute;
+  left: 1627px;
+  top: 10954px;
+  width: 65px;
+  height: 6px;
+  z-index: 116;
+}
+.Rounded_Rectangle_1_copy_16 {
+  border-radius: 2px;
+  background-color: rgb(182, 192, 52);
+  position: absolute;
+  left: 1326px;
+  top: 10737px;
+  width: 165px;
+  height: 6px;
+  z-index: 114;
+}
+.Rounded_Rectangle_1_copy_15 {
+  border-radius: 2px;
+  background-color: rgb(182, 192, 52);
+  position: absolute;
+  left: 523px;
+  top: 10737px;
+  width: 85px;
+  height: 6px;
+  z-index: 112;
+}
