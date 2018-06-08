@@ -14,8 +14,11 @@ mongoose.connect('mongodb+srv://omar_ramzyi:omar01010539322@portfolio-giapu.mong
 app.use('/portfolio', Portfolio);
 app.use('/portfolioFooter',portfolioFooter);
 app.use((req, res, next) => {
-    req.header("Access-Controll-Allow-Origin", "*");
-    req.header("Access-Controll-Allow-Headers", "*");
+	 //req.header("Access-Controll-Allow-Origin", "*");
+    //req.header("Access-Controll-Allow-Headers", "*");
+    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+    res.header("Access-Control-Allow-Origin", "http://localhost:3001");
+
     req.header("Access-Controll-Allow-Methods", "*");
     next();
 })
